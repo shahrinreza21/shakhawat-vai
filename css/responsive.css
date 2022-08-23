@@ -1,0 +1,8 @@
+/* this is for mobile device */
+@media only screen and (max-width: 600px) {
+    img {
+        height: auto;
+        width: 100%;
+      }
+      
+  }
